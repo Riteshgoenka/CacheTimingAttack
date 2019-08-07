@@ -1,5 +1,5 @@
 # CacheTimingAttack
-Course Project: <br>
+## Course Project: <br>
 Ritesh Goenka(160050047) <br>
 Abhishek Akkabatula(160050074) <br>
 Manoj Middepogu(160050075) <br>
